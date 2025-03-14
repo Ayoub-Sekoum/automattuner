@@ -1,0 +1,17 @@
+{
+  "intune_tenant_id": "",
+  "intune_client_id": "",
+  "intune_client_secret": "",
+  "powershell_cert_thumbprint": "",
+  "default_logo_path": "logos/default_logo.png",
+  "temp_package_dir": "temp_packages",
+  "wintuner_download_dir": ".\\wintuner_downloads",
+    "required_permissions": [
+    "DeviceManagementManagedDevices.ReadWrite.All",
+    "DeviceManagementServiceConfig.ReadWrite.All",
+    "DeviceManagementApps.ReadWrite.All",
+    "Group.Read.All",
+     "User.Read.All"
+
+  ]
+}
