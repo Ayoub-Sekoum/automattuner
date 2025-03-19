@@ -2,6 +2,8 @@
 
 ![Intune Application Publisher](https://github.com/Ayoub-Sekoum/automattuner/blob/main/foto.jpg)
 
+[![Watch the video](https://img.youtube.com/vi/JpIa12gXjiw/0.jpg)](https://youtu.be/JpIa12gXjiw)
+
 ## Overview
 
 This script automates the process of packaging and publishing applications from the Winget repository to Microsoft Intune. It leverages the power of WinTuner to streamline application management, making it easy to deploy and update software across your organization.
@@ -105,9 +107,3 @@ config.json
 ```
 
 ❤️ info  | [WinTuner Documentation](https://wintuner.app) 
-
-
-
-
-
-This will start the process of checking for required packages and installing them if necessary.
