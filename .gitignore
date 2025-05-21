@@ -1,0 +1,27 @@
+# Configuration files
+config.json
+
+# Log files
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Python specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+pip-log.txt
+pip_freeze.txt
+*.egg-info/
+.pytest_cache/
+.coverage
+.mypy_cache/
+.dmypy.json
+dmypy.json
